@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhav61808769" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav61808769?logo=twitter&style=for-the-badge" alt="vaibhav61808769" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack and Backend dev with Go**
+- 🌱 I’m currently learning and working with **MERN stack, Backend dev with Go, DevOps and Cloud**
 
-- 💬 Ask me about **MERN stack web dev and Go**
+- 💬 Ask me about developing and maintaining webapps made with **MERN stack, Go and Docker**
 
-- 📫 How to reach me **vaibhavng7@gmail.com**
+- 📫 How to reach me **vaibhavng7@gmail.com** or **+91 8855910016**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
