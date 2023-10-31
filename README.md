@@ -7,7 +7,7 @@
 
 - 💬 Ask me about developing and maintaining webapps made with **MERN stack, Go and Docker**
 
-- 📫 How to reach me **vaibhavng7@gmail.com** or **+91 8855910016**
+- 📫 How to reach me **vaibhavng7@gmail.com** or **+91 8855910016** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
